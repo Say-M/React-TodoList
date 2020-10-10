@@ -1,0 +1,46 @@
+{
+  "gData": [
+    {
+      "id": 1,
+      "title": "Unknown",
+      "image": "https://i.guim.co.uk/img/media/1e40301d0e86c187ca97196addbbfc9d007423a1/0_0_3600_2160/master/3600.jpg?width=620&quality=85&auto=format&fit=max&s=714d9a0ca73a931748cbe661d2f60a62",
+      "altText": "Unknown",
+      "desc": "One 1 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur quas quo sint itaque optio asperiores. Enim dicta doloribus mollitia vel velit deserunt cum impedit saepe. Nobis qui ullam exercitationem dolores!"
+    },
+    {
+      "id": 2,
+      "title": "Minecraft",
+      "image": "https://i.guim.co.uk/img/media/c6f7b43fa821d06fe1ab4311e558686529931492/168_84_1060_636/master/1060.jpg?width=1020&quality=85&auto=format&fit=max&s=e4648b544f7b2578fca68c11a3f054de",
+      "altText": "minecraft",
+      "desc": "Tow 2 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur quas quo sint itaque optio asperiores. Enim dicta doloribus mollitia vel velit deserunt cum impedit saepe. Nobis qui ullam exercitationem dolores!"
+    },
+    {
+      "id": 3,
+      "title": "Pokemon Go",
+      "image": "https://i.guim.co.uk/img/media/a077694c1d741302b90394a8dda2b215c80f4a09/0_0_4500_2700/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=d96958aea4b03f2afd54459b122004cf",
+      "altText": "pokemon go",
+      "desc": "Three 3 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur quas quo sint itaque optio asperiores. Enim dicta doloribus mollitia vel velit deserunt cum impedit saepe. Nobis qui ullam exercitationem dolores!"
+    },
+    {
+      "id": 4,
+      "title": "Unknown",
+      "image": "https://i.guim.co.uk/img/media/1e40301d0e86c187ca97196addbbfc9d007423a1/0_0_3600_2160/master/3600.jpg?width=620&quality=85&auto=format&fit=max&s=714d9a0ca73a931748cbe661d2f60a62",
+      "altText": "Unknown",
+      "desc": "One 1 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur quas quo sint itaque optio asperiores. Enim dicta doloribus mollitia vel velit deserunt cum impedit saepe. Nobis qui ullam exercitationem dolores!"
+    },
+    {
+      "id": 5,
+      "title": "Minecraft",
+      "image": "https://i.guim.co.uk/img/media/c6f7b43fa821d06fe1ab4311e558686529931492/168_84_1060_636/master/1060.jpg?width=1020&quality=85&auto=format&fit=max&s=e4648b544f7b2578fca68c11a3f054de",
+      "altText": "minecraft",
+      "desc": "Tow 2 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur quas quo sint itaque optio asperiores. Enim dicta doloribus mollitia vel velit deserunt cum impedit saepe. Nobis qui ullam exercitationem dolores!"
+    },
+    {
+      "id": 6,
+      "title": "Pokemon Go",
+      "image": "https://i.guim.co.uk/img/media/a077694c1d741302b90394a8dda2b215c80f4a09/0_0_4500_2700/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=d96958aea4b03f2afd54459b122004cf",
+      "altText": "pokemon go",
+      "desc": "Three 3 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur quas quo sint itaque optio asperiores. Enim dicta doloribus mollitia vel velit deserunt cum impedit saepe. Nobis qui ullam exercitationem dolores!"
+    }
+  ]
+}
